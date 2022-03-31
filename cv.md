@@ -13,15 +13,15 @@
 
 ********
               My skills                        |                My education
-* Economics                                    | **BSEU**                              2020
-* SAP ERP                                      | Faculty of Digital Economics
-* 1C                                           | Specialty economic informatics
-* MC Office                                    |
-* Photoshop                                    | 
-* Software testing                             |
-* SQL                                          |
-* C++                                          |
-* Business analysis                            |
+Economics                                    | **BSEU**                              2020
+SAP ERP                                      | Faculty of Digital Economics
+1C                                           | Specialty economic informatics
+MC Office                                    |
+Photoshop                                    | 
+Software testing                             |
+SQL                                          |
+C++                                          |
+Business analysis                            |
 ********
 
 
@@ -42,5 +42,5 @@ of the city of Minsk                           |
 ### Contact information
 
 Phone:   +375292424294
-E-mail:  shulgan.lelya@gamil.com
+E-mail:  shulgan.lelya@gmail.com
 Discord: Volia (VoliaShulia)#2968
