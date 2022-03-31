@@ -1,4 +1,4 @@
-![Volha Shulhan](/img/photo.jpg "Volha Shulhan")
+![Volha Shulhan](/img/photo.jpg)
 
 
 # VOLHA SHULHAN
@@ -51,10 +51,10 @@ contract works in the "*State Statistical Office*
 
 ## Contact information
 
-![Phone](/img/icons8-сотовый-телефон-64.png "Phone")   +375292424294
+![Phone](/img/icons8-сотовый-телефон-64.png)   +375292424294
 
 
-![E-mail](/img/icons8-почта-64.png "E-mail")  shulgan.lelya@gmail.com
+![E-mail](/img/icons8-почта-64.png)  shulgan.lelya@gmail.com
 
 
-![Discord](/img/icons8-discord-64.png "Discord") Volia (VoliaShulia)#2968
+![Discord](/img/icons8-discord-64.png) Volia (VoliaShulia)#2968
