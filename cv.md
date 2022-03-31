@@ -9,7 +9,7 @@
 
 ## My skills
 * Learning now
-    * JavaSkript
+    * JavaScript
 * Alredy know
     * HTML
     * CSS
