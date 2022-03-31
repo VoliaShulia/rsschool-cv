@@ -1,6 +1,3 @@
-
-
-
 ![Volha Shulhan](/img/photo.jpg)
 
 
@@ -9,6 +6,7 @@
 ## Frontend developer
 
 ********
+
 ## My skills
 * Economics
 * SAP ERP
@@ -23,9 +21,10 @@
 ********
 
 ## My education
-**BSEU**   2020                           
-Faculty of Digital Economics
+**BSEU**   2020  
+Faculty of Digital Economics  
 Specialty economic informatics
+
 ********
 
 ## My work expirience
