@@ -1,4 +1,4 @@
-![Volha Shulhan](/img/photo.jpg)
+![Volha Shulhan](/img/photo.jpg "Volha Shulhan")
 
 
 # VOLHA SHULHAN
@@ -8,6 +8,7 @@
 ********
 
 ## My skills
+
 * Economics
 * SAP ERP
 * 1C
@@ -21,7 +22,8 @@
 ********
 
 ## My education
-**BSEU**   2020  
+
+**BSEU** 2020  
 Faculty of Digital Economics  
 Specialty economic informatics
 
@@ -29,13 +31,13 @@ Specialty economic informatics
 
 ## My work expirience
 
-* internship at "Webcat" as a Project manager  
+* internship at "*Webcat*" as a Project manager  
 assistant                                      
-* AdsProfit as a Account manager/Advertising    
+* "*AdsProfit*" as a Account manager/Advertising    
 manager on Facebook                            
 * Statistician in the field of construction    
-contract works in the State Statistical Office 
-of the city of Minsk 
+contract works in the "*State Statistical Office* 
+*of the city of Minsk*"
 
 ********
 
