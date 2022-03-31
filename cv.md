@@ -8,16 +8,26 @@
 ********
 
 ## My skills
+* Learning now
+    * JavaSkript
+* Alredy know
+    * HTML
+    * CSS
+    * Markdown
+    * Git
+* Other skills
+    * Economics
+    * SAP ERP
+    * 1C
+    * MC Office
+    * Photoshop
+    * Software testing
+    * SQL
+    * C++
+    * Business analysis
+    * Figma
+    * Trello
 
-* Economics
-* SAP ERP
-* 1C
-* MC Office
-* Photoshop
-* Software testing
-* SQL
-* C++
-* Business analysis
 
 ********
 
@@ -33,7 +43,7 @@ Specialty economic informatics
 
 * internship at "*Webcat*" as a Project manager  
 assistant                                      
-* "*AdsProfit*" as a Account manager/Advertising    
+* "*AdsProfit*" as an Account manager/Advertising    
 manager on Facebook                            
 * Statistician in the field of construction    
 contract works in the "*State Statistical Office* 
@@ -51,10 +61,10 @@ contract works in the "*State Statistical Office*
 
 ## Contact information
 
-![Phone](/img/icons8-сотовый-телефон-64.png)   +375292424294
+![Phone](/img/icons8-сотовый-телефон-64.png)   +375292424284
 
 
-![E-mail](/img/icons8-почта-64.png)  shulgan.lelya@gmail.com
+![E-mail](/img/icons8-почта-64.png)  shulhan.lelya@gmail.com
 
 
 ![Discord](/img/icons8-discord-64.png) Volia (VoliaShulia)#2968
