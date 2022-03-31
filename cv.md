@@ -1,7 +1,7 @@
 
 
 
-![Volha Shulhan] (/img/photo.jpg)
+![Volha Shulhan](/img/photo.jpg)
 
 
 # VOLHA SHULHAN
@@ -13,7 +13,6 @@
 
 ********
               My skills                        |                My education
-:---------------------------------------------:|:--------------------------------------------------:
 * Economics                                    | **BSEU**                              2020
 * SAP ERP                                      | Faculty of Digital Economics
 * 1C                                           | Specialty economic informatics
@@ -30,8 +29,8 @@
 
 
               My work expirience               |                My JavaScript code example:
-:---------------------------------------------:|:--------------------------------------------------:
-* internship at "Webcat" as a Project manager |``` 
+-----------------------------------------------|:--------------------------------------------------:
+* internship at "Webcat" as a Project manager  |``` 
 assistant                                      | function multiply(a, b){
 * AdsProfit as a Account manager/Advertising   |   return a * b
 manager on Facebook                            |}
