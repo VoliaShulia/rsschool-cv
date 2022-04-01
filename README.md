@@ -1,1 +1,1 @@
-https://voliashulia.github.io/rsschool-cv/cv
+https://voliashulia.github.io/rsschool-cv
