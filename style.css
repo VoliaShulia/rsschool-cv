@@ -2,12 +2,14 @@ body {
     margin: 0;
     min-width: 960px;
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-    font-size: 16px;
+    font-size: 30px;
     line-height: 32px;
     color: #222222;
     background-color: #f2f4f6;
     background-repeat: no-repeat;
     background-position: top center;
+    padding-left: 40px;
+    padding-top: 40px;
   }
   
   .container {
@@ -15,24 +17,21 @@ body {
     margin: 0 auto;
     padding: 0 16px;
   }
-  
-  .page-footer .container {
-    max-width: 1408px;
-    text-align: right;
-  }
-
   .user-image {
     margin: 0 0 32px;
     text-align: center;
     border-radius: 50%;
   }
-
-  .footer-email {
-    padding-left: 25px;
-    background-image: url("img/icons8-почта-64.png");
-  }
-  
-  .footer-phone {
-    padding-left: 25px;
-    background-image: url("img/icons8-сотовый-телефон-64.png");
-  }
+.footer {
+  margin-top: 80px;
+}
+.footer-link {
+  text-decoration: none;
+}
+.footer-menu {
+  list-style: none;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
